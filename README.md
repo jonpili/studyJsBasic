@@ -1,5 +1,12 @@
 # vue_template
 
+## Environment
+- Vue.js@3.11.0
+- Vue CLI
+- Vue Router
+- Vuetify
+- Pug
+
 ## Project setup
 ```
 yarn install
