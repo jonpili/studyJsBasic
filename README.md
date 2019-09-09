@@ -7,6 +7,20 @@
 - Vuetify
 - Pug
 
+## How to Use
+1. clone
+2. yarn install
+3. make repository
+4. git settings
+```
+git init
+git remote add origin xxx(url)
+git add .
+git commit -m "initial"
+git push origin master
+```
+5. yarn serve
+
 ## Project setup
 ```
 yarn install
