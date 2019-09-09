@@ -1,5 +1,5 @@
 <template lang="pug">
-  .welcome
+  .container
     p {{ message }}
     router-link.link(to="/top")
       v-btn go to top
@@ -7,7 +7,7 @@
 
 <script>
 export default {
-  name: 'welcome',
+  name: 'Welcome',
   data () {
     return {
       message: 'Hello, Joe!'
@@ -17,7 +17,7 @@ export default {
 </script>
 
 <style scoped>
-.welcome {
+.container {
   text-align: center;
   margin: 24px;
 }

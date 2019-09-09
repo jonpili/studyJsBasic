@@ -8,7 +8,7 @@
 
 <script>
 export default {
-  name: 'App'
+  name: 'App' // upper camel case
   // data () {
   //   return {
   //     データの置き場所
