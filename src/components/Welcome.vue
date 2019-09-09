@@ -1,6 +1,6 @@
 <template lang="pug">
   .container
-    p {{ message }}
+    h1 {{ message }}
     router-link.link(to="/top")
       v-btn go to top
 </template>
