@@ -9,12 +9,15 @@
 
 ## How to Use
 1. clone
+```
+git clone xxx(ul)
+```
 2. yarn install
 3. make repository
 4. git settings
 ```
 git init
-git remote add origin xxx(url)
+git remote set-url origin xxx(url)
 git add .
 git commit -m "initial"
 git push origin master
