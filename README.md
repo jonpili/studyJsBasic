@@ -18,8 +18,6 @@ git clone xxx(url)
 ```
 git init
 git remote set-url origin xxx(url)
-git add .
-git commit -m "init"
 git push origin master
 ```
 5. yarn serve
