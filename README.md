@@ -10,7 +10,7 @@
 ## How to Use
 1. clone
 ```
-git clone xxx(ul)
+git clone xxx(url)
 ```
 2. yarn install
 3. make repository
