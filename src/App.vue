@@ -11,17 +11,26 @@ export default {
   name: 'App'
   // data () {
   //   return {
-  //     データの置き場所
+  //     xxx: データの置き場所
   //   }
   // },
   // props: {
-  //   データの受け取り
+  //   xxx: データの受け取り
   // },
   // computed: {
-  //   データの算出
+  //   xxx: function() {
+  //     return データの自動算出
+  //   }
+  // },
+  // watch: {
+  //   xxx: function() {
+  //     データ変更時にメソッドを実行
+  //   }
   // },
   // methods: {
-  //   メソッドの組み込み
+  //   xxx: function() {
+  //     メソッドの組み込み
+  //   }
   // },
   // created: function() {
   //   インスタンスが作成された後に同期的に呼ばれるフック
