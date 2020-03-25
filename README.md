@@ -4,7 +4,7 @@
 - Vue.js@3.11.0
 - Vue CLI
 - Vue Router
-- Vuetify
+- Element
 - Pug
 
 ## How to Use
