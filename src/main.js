@@ -1,7 +1,6 @@
 import Vue from 'vue'
 import App from './App.vue'
 import VueRouter from 'vue-router'
-import vuetify from './plugins/vuetify'
 
 Vue.config.productionTip = false
 
@@ -35,7 +34,6 @@ const router = new VueRouter({
 // アプリケーション全体がルーターを認知できるように、
 // ルーターをインジェクトすることを忘れないでください。
 new Vue({
-  vuetify,
   router,
   render: h => h(App)
 }).$mount('#app')
